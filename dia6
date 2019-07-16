@@ -1,0 +1,15 @@
+Ejercicio:
+Hacer que los 3 leds parpadeen todos juntos con un intervalo de nsq cuantos segundos hd asd rr
+
+import RPi.GPIO as gpio #libreria para utilizar los puertos de entrada y saluda
+from time import sleep
+led1=23
+gpio.setmode(gpio.BCM) #modo BCM de la rapsberry pi (Broadcom SOC channel)
+gpio.setup(led1,gpio,OUT) #configuramos los puertos conectados a los leds como salida
+
+while True:
+	gpio.outpout(led1,True)
+	sleep(1)
+	gpio.outpout(led1,False)
+	sleep(1)
+

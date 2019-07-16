@@ -18,7 +18,6 @@
 # >= mayor o igual
 # <= menor o igual
 # != distinto de 
-
 #a = 5
 #b = 1
 
@@ -174,6 +173,7 @@
 
 # lista_ingredientes = []
 # contador = 0
+#
 # while contador < 5:
 #     ingrediente= input("Ingresa tu lista de compras: ")
 #     lista_ingredientes.append(ingrediente)

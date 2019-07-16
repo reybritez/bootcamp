@@ -1,0 +1,23 @@
+Día 1 - Bootcamp Penguin.
+Comenzamos hablando sobre lo básico, iniciamos con el intérprete de Visual Code y una extensión de Python. 
+Definimos qué es un lenguaje de programación y hablamos de las funciones de print y etc.
+
+Probamos el print, los strings y los int. Todas pruebas y conceptos.
+Vimos los TIPOS DE DATOS
+
+Ahora pasamos a las Estructuras de Datos.
+Variables: Un lugar donde guardas un valor. ¿Como crear eso en Python?  a = x  (a es la variable) lo de la derecha es el valor.
+Básicamente se pueden realizar operaciones concatenadas también dentro de cada variable y de acuerdo al sitio que ocupa en la línea de código
+se puede reemplazr. Por eso se llaman variables ahre.
+Resoluciión de conceptos generales. Oiko la vd.
+
+El primer ejercicio fue crear dos variables e impriimir con una concatenacion. Hola mi nombre es: x y tengo x Años. 
+
+Break for almuerzo.
+
+Listas: Para guardar varios valores. Una lista vacia es como una variable [], serían como los arrays en pseudocodigo, en los que se declaran 
+todas las variables dentro de la lista y tiene una posición, iniciando desde el 0. sintaxis: dato = [0,1,2,3]
+
+Posteriormente estuvimos viendo Bucles y For
+
+Maldiicion esto pega mucho. Estamos a puno de salir.

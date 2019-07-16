@@ -1,0 +1,9 @@
+En el dia 2 hicimos un repaso general de las clases del día de ayer. 
+
+Repaso del ejercicio de acumulador del desafío final que dimos. Oiiko hasta las 11 HS. 
+
+Empezamos complicandonos con las funciones "def nombredelafuncion(valor1,valor2): y se abre el bloque de codigo
+APrendimos tambien el retorno de las variiables y como imprimiir despues.
+
+Por la tardecita hicimos una dinamica para entender el for y las funciones. Y Chill
+Termine y me fui al laburo hasta las 00

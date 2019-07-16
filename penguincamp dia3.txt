@@ -1,0 +1,10 @@
+Comenzamos el dia con un repaso de For y las Funciones hasta las 10:30 aprox.
+
+Después comenzamos con las condicionales. If - else / elif - que era si - sino - y sino-si 
+
+Después vimos el input. Que básicamente en vez de cargar los valores de cálculo manualmente, pide a los usuuarios que carguen
+el valor deseado en una variable para luego utilizarlo en otras operaciones.
+
+Despues de eso, utilizamos el bucle While, que basicamente es "Mientras". O sea, mientras que se cumpla una condicion, va 
+a repetir el ciclo. Una vez cumplido, sale del bucle y salta a la siguiente línea.
+

@@ -1,0 +1,19 @@
+Penguin Bootcamp Día 4 --- Workshop Robotica. 
+
+---- Hardware. 
+Placa de control en Arduini
+Modulo Wifi
+Sensor de Distancia
+Sensor para seguidor de lineas
+Sensor de Luz
+Led RGB
+Buzzer
+Bateria y carador
+
+---- Firmware.
+RoDI web (default)
+Un servicio en el robot, el robot como servicio
+API abierta, usando el protocolo HTTP
+Provee Funcionalidades de Alto Nivel (mover, ver, cantar)
+Software libre. github.com/tchx84/rodi-web
+
