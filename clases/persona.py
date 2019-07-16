@@ -31,13 +31,36 @@
 
 ## Ej. Agregar un metodo a la clase Persona que asigne una nacionalidad y
 # otro metodo saludar que imprima "Hola Soy ____ y mi nacionalidad es ____" 
+# Anhadi a este method el INDICE DE MASA CORPORAL XD
+class Saludar:
+    nationality= "Paraguaya"
+    def __init__(self, un_nombre):
+        self.mi_nombre = un_nombre
+        print("Holi, soy:",self.mi_nombre,"Y soy de nacionalidad:",self.nationality)
+#    def crecimiento(self, una_altura):
+#        self.altura = una_altura + self.mi_altura
+#        print("Creci",una_altura,"cm, y mi altura nueva es:",self.altura)
+    def calculo_imc(self, un_peso, una_altura):
+        self.peso = un_peso
+        self.altura = una_altura
+        imc = (self.peso) / ((self.altura)*(self.altura)) 
+        print(imc)
+        if imc < 18.5: 
+            print("Tu peso es insuficiente")
+        elif imc >= 18.5 and imc <= 24.5:
+            print("Tu peso es Normal")
+        elif imc > 24.5 and imc < 50:
+            print("tas gordito bro")
 
-# class Saludar:
-#     nationality= "Paraguaya"
-#     def __init__(self, un_nombre):
-#         self.mi_nombre = un_nombre
-#         print("Holi, soy:",self.mi_nombre,"Y soy de nacionalidad:",self.nationality)
+        
+pepe = Saludar("Pepe")
+pepe.calculo_imc(70,1.70)
+marta = Saludar("Marta")
+marta.calculo_imc(80,1.60)
+maiki = Saludar("Maiki")
+maiki.calculo_imc(70,1.80)
 
-# pepe = Saludar("Pepe")
-# marta = Saludar("Marta")
-# maiki = Saludar("Maiki")
+#pepe.crecimiento(30)
+#marta.crecimiento(10)
+#maiki.crecimiento(30)
+
